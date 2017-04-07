@@ -1,0 +1,6 @@
+data.txt
+file02
+newFile.txt
+test01
+test02
+test03
